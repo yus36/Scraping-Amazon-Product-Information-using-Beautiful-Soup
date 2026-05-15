@@ -1,4 +1,4 @@
-mazon Product Scraper
+Amazon Product Scraper
 A Python-based web scraper designed to extract product details from Amazon listings, including ratings, prices, review counts, and availability status.
 
 ⚠️ Important Note on Bot Detection
